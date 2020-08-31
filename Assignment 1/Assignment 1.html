@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            h1 {text-align: center;}
+            h2 {text-align: center;}
+
+            .dropdown {
+                position: relative;
+                display: inline-block;
+            }
+
+            .dropdown-button {
+                background-color: lightpink;
+                color: white;
+                padding: 10px;
+                border:none;
+                font-size: 16px;
+            }
+
+            .dropdown-item {
+                display: none;
+                position: absolute;
+                background-color: lightgrey;
+                min-width: 160px;
+                z-index: 1;
+                }
+
+            .dropdown-item a{
+                float: left;
+                font-size: 20px;
+                color: black;
+                padding:  2px;
+                display: block;
+            }
+
+            .dropdown-item a:hover {background-color: pink}
+
+            .dropdown:hover .dropdown-item {display: block;}
+
+            .dropdown:hover .dropdown-button {background-color: lightgray}
+
+            .general_page {
+
+                background-color: lightblue;
+                border: 2px solid black;
+                color: black;
+                padding: 50px;
+                margin: 100px;
+
+
+            }
+
+            .center {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 50%;
+            
+            }
+        </style>
+    </head>
+
+    <body>
+
+        <div class = "dropdown">
+         <button class ="dropdown-button"> "Drop 1" </button>
+                <div class = "dropdown-item">
+                    <ul>
+                        <a href="#"> Test 0</a>
+                        <a href="#"> Test 1</a>
+                        <a href="#"> Test 2</a>
+                    </ul>
+                </div>
+        </div>
+
+
+        <div class = "dropdown">
+            <button class ="dropdown-button"> "Drop 2" </button>
+                   <div class = "dropdown-item">
+                       <ul>
+                           <a href="#"> Test 3</a>
+                           <a href="#"> Test 4</a>
+                           <a href="#"> Test 5</a>
+                       </ul>
+                   </div>
+           </div>
+
+           <div class = "dropdown">
+            <button class ="dropdown-button"> "Drop 3" </button>
+                   <div class = "dropdown-item">
+                       <ul>
+                           <a href="#"> Test 6</a>
+                           <a href="#"> Test 7</a>
+                           <a href="#"> Test 8</a>
+                       </ul>
+                   </div>
+           </div>
+
+
+        <div class = "general_page">
+            <h1><img src="https://www.newpaltz.edu/media/identity/logos/newpaltzlogo.jpg" class="center"></h1>
+            <h1> This is a sample page for Assignment 1</h1>
+            <h2> Created by Myles Barcelo </h2>
+            <p>
+                This is a test paragraph.
+                <br>Sample text
+                <br>Sample text
+            </p>
+        </div>
+        
+    </body>
+
+
+</html>
