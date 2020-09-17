@@ -25,5 +25,5 @@ change careers altogether, but I will still think like a programmer.  My options
 go are open, and I want to be equipped with the right skills to tackle any of them.
 
 <p align="center">
-    <img src="headshot.png">
+    <img src="headshot.png" height="400px" width="320px">
 </p>
