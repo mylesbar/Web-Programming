@@ -21,7 +21,8 @@ learned from this class to help me solve problems in my career. I still do not r
 where I want to take my career beyond undergraduate college. I may want to work
 within robotics and utilize this class to set up web server communications, or I may want
 to work in game design and tap into the class material on a minimal level. I may even
-change careers altogether, but I will still think like a programmer. My options for where I
+change careers altogether, but I will still think like a programmer.  My options for where I
+go are open, and I want to be equipped with the right skills to tackle any of them.
 
 <p align="center">
     <img src="headshot.png">
