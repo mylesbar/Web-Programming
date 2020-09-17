@@ -1,4 +1,4 @@
-#Classwork Repository for the CPS493_03 Web Programming class taught by professor Moshe Plotkin in the Fall 2020 semester.
+# Classwork Repository for the CPS493_03 Web Programming class taught by professor Moshe Plotkin in the Fall 2020 semester.
 
 My name is Myles Barcelo and I am currently a Computer Engineering &
 Computer Science double major with a minor in Psychology. My history with computers
